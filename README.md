@@ -1,8 +1,9 @@
 # CS-360-Mobile-Architect-and-Programming
 
-    Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
-    What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
-    How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
-    How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
-    Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
-    In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+For this project, I created an Inventory Tracking App aimed at improving warehouse management by simplifying the processes of adding, removing, and adjusting stock levels. The app also includes notifications to alert users when inventory is running low. The main objective was to make it easier for users to monitor and manage inventory efficiently.
+
+The app features several key screens: a login page for user authentication, an inventory grid to display items, an add/remove screen for managing stock, and a detailed view for editing item details. I designed these interfaces with user convenience in mind, incorporating intuitive features like search and action buttons to enhance usability and streamline navigation.
+
+For the development process, I prioritized writing organized and modular code and employed the Room database for effective inventory management. Testing was conducted extensively using the Android Emulator to identify and resolve any issues, which was crucial for ensuring the app's functionality. I faced some challenges with emulator performance which slowed down my apps development procecss. Overall, I successfully demonstrated my skills in developing user-friendly inventory management features and effective app design.
+
+
